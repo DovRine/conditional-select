@@ -1,0 +1,11 @@
+.ConditionalSelect .Group {
+    box-sizing: border-box;
+    flex: 1;
+    background-color: white;
+    margin: 0.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    padding: 0.5rem;
+    border: solid black 1px;
+    border-radius: 0.15rem;
+}
